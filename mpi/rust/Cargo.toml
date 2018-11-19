@@ -1,0 +1,8 @@
+[package]
+name = "rust"
+version = "0.1.0"
+authors = ["Adam Kelly <adam.guitar12@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+mpi = "0.5"
